@@ -1,1 +1,1 @@
-Miembros del equipo: version inicial.
+Miembros del equipo: opcion 2.
