@@ -1,1 +1,1 @@
-Miembros del equipo: opcion 2.
+Miembros del equipo: opciones 1 y 2.
